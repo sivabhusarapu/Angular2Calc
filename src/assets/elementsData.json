@@ -1,0 +1,82 @@
+[
+	{
+		"display": "AC",
+		"type": "operator",
+		"value": "AC"
+	},{
+		"display": "C",
+		"type": "operator",
+		"value": "C"
+	},{
+		"display": "%",
+		"type": "operator",
+		"value": "%"
+	},{
+		"display": "+-",
+		"type": "operator",
+		"value": "+-"
+	},{
+		"display": "7",
+		"type": "number",
+		"value": "7"
+	},{
+		"display": "8",
+		"type": "number",
+		"value": "8"
+	},{
+		"display": "9",
+		"type": "number",
+		"value": "9"
+	},{
+		"display": "/",
+		"type": "operator",
+		"value": "/"
+	},{
+		"display": "4",
+		"type": "number",
+		"value": "4"
+	},{
+		"display": "5",
+		"type": "number",
+		"value": "5"
+	},{
+		"display": "6",
+		"type": "number",
+		"value": "6"
+	},{
+		"display": "*",
+		"type": "operator",
+		"value": "*"
+	},{
+		"display": "1",
+		"type": "number",
+		"value": "1"
+	},{
+		"display": "2",
+		"type": "number",
+		"value": "2"
+	},{
+		"display": "3",
+		"type": "number",
+		"value": "3"
+	},{
+		"display": "-",
+		"type": "operator",
+		"value": "-"
+	},{
+		"display": ".",
+		"type": "number",
+		"value": "."
+	},{
+		"display": "0",
+		"type": "number",
+		"value": "0"
+	},{
+		"display": "=",
+		"type": "operator",
+		"value": "="
+	},{
+		"display": "+",
+		"type": "operator",
+		"value": "+"
+	}]

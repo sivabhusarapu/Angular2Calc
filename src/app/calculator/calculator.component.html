@@ -1,0 +1,11 @@
+<div id="calculator">
+  <div class ="rowContainer">
+    <app-input></app-input>
+  </div>
+  <div class="flexContainer">
+	  <div class="numberDiv" *ngFor='let number of elementsDisplayArray'>
+	      <app-number-button *ngIf="number.type === 'number'" [numberData]=number (buttonClickEvent) ="onNumberClick($event)"></app-number-button>
+	      <app-operator-button *ngIf="number.type === 'operator'" [numberData]=number (buttonClickEvent) ="onOperatorClick($event)"></app-operator-button>
+	  </div>
+  </div>
+</div>
