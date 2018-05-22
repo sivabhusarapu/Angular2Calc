@@ -1,0 +1,1 @@
+//this project is about Calculator application with angular 2
